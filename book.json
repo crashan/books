@@ -1,0 +1,18 @@
+{
+  "plugins":[
+    "-search",
+    "-sharing",
+    "search-pro",
+    "katex",
+    "splitter",
+    "expandable-chapters-small",
+    "copy-code-button",
+    "tbfed-pagefooter"
+  ],
+
+  "pluginsConfig":{
+    "tb-fed-pagefooter":{
+      "copyright":"Copyright &copy crashan.cn 2019"
+    }
+  }
+}
